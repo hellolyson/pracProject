@@ -1,0 +1,4 @@
+1、下载node.js
+2、安装express:  npm install express
+3、安装socket.io:  npm install socket.io
+4、跑项目：node ./server.js
